@@ -1,0 +1,34 @@
+.heading{
+    color: brown;
+}
+.container{
+    border: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background:rgb(244, 244, 205);
+    width: 20%;
+    margin-left: 50%;
+    flex-wrap: wrap;
+    margin-bottom: 0.1rem;
+}
+.dec_btn{
+    margin-top: 0.5rem;
+    background-color: crimson;
+    font-size: 30px;
+    margin-bottom: 5px;
+  
+  }
+.inc_btn{
+    background-color: rgb(5, 174, 78);
+    font-size: 30px;
+     
+}
+.counter{
+    font-size: 30px; 
+}
+.btn{
+  width: 30%;
+  border-radius: 10px;
+}
